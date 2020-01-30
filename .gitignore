@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/.idea/*
+/gradle.properties
+/gradlew
+/gradlew.bat
+/local.properties
+
+.navigation
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+Будет удалено libs/
